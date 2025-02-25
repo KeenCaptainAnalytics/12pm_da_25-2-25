@@ -1,6 +1,18 @@
-print(type(56.34))
-print(type(100))
-print(type("textual data"))
+num = 100
+data = "hello world"
+# num = variable
+print(num)
+print(data)
+# print(100)
+# print(type('hello world'))
+
+# "hello world"
+# "iam a person"
+# same functionalities and property
+
+# print(type(56.34))
+# print(type(100))
+# print(type("textual data"))
 
 
 
