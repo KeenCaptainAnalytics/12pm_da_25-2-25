@@ -1,3 +1,18 @@
+num = 21
+match num :
+    case 1 :
+        print("hello this is case 1 ")
+
+    case 2 :
+        print("hello this is case 2 ")
+
+    case 3 :
+        print("hello this is case 3 ")
+    case 4 :
+        print("hello this is case 4 ")
+    case _ :
+        print("hello no case is matched ")
+
 # input => weekday
 # mon => blue tues= > yellow =
 
